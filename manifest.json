@@ -1,0 +1,9 @@
+{
+  "id": "file-progress-plugin",
+  "name": "File Progress Plugin",
+  "version": "1.0.0",
+  "description": "Shows the reading progress of your file.",
+  "author": "Luke Leppan",
+  "authorUrl": "https://lukeleppan.com",
+  "isDesktopOnly": false
+}
